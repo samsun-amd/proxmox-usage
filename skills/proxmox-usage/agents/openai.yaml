@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proxmox Usage"
+  short_description: "Inspect and operate Proxmox VE through a scoped API token"
+  default_prompt: "Use $proxmox-usage to list the VMs on the default Proxmox cluster."

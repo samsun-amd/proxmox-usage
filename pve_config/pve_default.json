@@ -1,0 +1,7 @@
+{
+  "url": "https://192.0.2.10:8006",
+  "token_id": "claude@pve!cc",
+  "token_secret": "00000000-0000-0000-0000-000000000000",
+  "ca_file": "~/pve_config/pve_default-ca.pem",
+  "note": "Example only; copy to ~/pve_config/ and chmod 600"
+}
